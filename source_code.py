@@ -8,7 +8,7 @@ from google import genai
 from google.genai import types
 
 # ========== CONFIGURATION ==========
-API_KEY = "AIzaSyAsT1uwx9WOvuKGDuYUVxCUglX8Rn1CMDI"  # Use your actual API key
+API_KEY = "***********"  # Use your actual API key
 INPUT_CSV = "twitter_training.csv"
 OUTPUT_EXCEL = "gemini_sentiment_output.xlsx"
 NUM_SAMPLES = 15
